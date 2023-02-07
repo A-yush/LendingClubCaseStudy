@@ -27,7 +27,7 @@ The company wants to understand the driving factors (or driver variables) behind
 
 ## Dataset Used
 
-Dataset used is Lending club Dataset. You can find it in data folder named as "loan.csv"
+Dataset used is Lending club Dataset ("loan.csv"). You can find it in data folder.
 
 
 ## Conclusions
