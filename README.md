@@ -16,8 +16,6 @@
 
 The project assists lending club company to understand how consumer attributes and loan attributes influence the tendency of default. Different types of analysis like univariate, segmented univariate analysis and bivariate analysis is being performed and depicted using graphs/plots.
 
-- What is the background of your project?
-
 ## Business Problem
 
 When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
