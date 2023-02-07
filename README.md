@@ -4,8 +4,8 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Business Problem] (#business-problem)
-* [Dataset Used] (#dataset-used)
+* [Business Problem](#business-problem)
+* [Dataset Used](#dataset-used)
 * [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
 * [Contact](#contact)
